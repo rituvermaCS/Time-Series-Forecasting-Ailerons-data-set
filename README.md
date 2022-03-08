@@ -18,6 +18,7 @@ vii) The training data is available from Jan 1996 - Nov 2016. We will use data f
 ## Model number 2-
 
 File name- Ailerons_data_set.ipynb
+Colab Book- https://colab.research.google.com/drive/15_lC-fVq1RCO31R30V9R2lJ3boA5-PYX
 Dataset- ailerons.csv
 Problem statement- 
 This data set addresses a control problem, namely flying a F16 aircraft. The attributes describe the status of the airplane, while the goal is to predict the control action on the ailerons of the aircraft.
