@@ -1,10 +1,10 @@
-# Time-Series-Forecasting-Ailerons-data-set\
-Created Time Series Forecasting (using Weather_data.csv) and Ailerons data set (using ailerons.csv) and also use Docker containers.\
+# Time-Series-Forecasting-Ailerons-data-set
+Created Time Series Forecasting (using Weather_data.csv) and Ailerons data set (using ailerons.csv) and also use Docker containers.
 
-## Model number 1-\
+## Model number 1-
 
-File name- Time_Series_ForeCasting.ipynb\
-Colab Book- https://colab.research.google.com/drive/1MZGOQCAhMaj1HoM-bnEJMoET2UBAM-jP\
+File name- Time_Series_ForeCasting.ipynb \
+Colab Book- https://colab.research.google.com/drive/1MZGOQCAhMaj1HoM-bnEJMoET2UBAM-jP \
 Dataset- Weather_data.csv
 Problem statement- 
 i) Predict the temperature column ‘ _tempm’ for Delhi, using Time Series Forecasting 
