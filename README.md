@@ -13,7 +13,7 @@ iii) For prediction, try multiple available techniques and choose the best perfo
 iv) Does a time series model developed using deep learning techniques give more accurate predictions? \
 v) Model must take a date as input and output the probable temperature for that day (so basically forecast to the given date and then report the value of that date) \
 vi) You are allowed to use the other accompanying features as input as well and create a multi-variate forecasting model. \
-vii) The training data is available from Jan 1996 - Nov 2016. We will use data from Dec 2016 - April 2017 to check the model accuracy/validity. \
+vii) The training data is available from Jan 1996 - Nov 2016. We will use data from Dec 2016 - April 2017 to check the model accuracy/validity. 
 
 ## Model number 2-
 
@@ -27,7 +27,7 @@ ii) Loss function is “RMSE”. \
 iii) You are encouraged to try out different techniques from ML/DL and share comparative results. \
 iv) Use of proper feature selection process and hyperparameter tuning (if required) is necessary. \
 v) You’re allowed to do any feature engineering/feature selection you deem necessary. \
-vi) Properly commenting the code is required. \
+vi) Properly commenting the code is required. 
 
 The idea is to do a quick and easy build of a Docker container with a simple machine learning models and run it. In order to start building a Docker container for a machine learning model, let’s consider five files:
 
